@@ -1,0 +1,9 @@
+<script>start("/Users/john-paulanderson/Documents/Hackathon/JobAI/venv/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("bin","bin",1,768,"768 B",1742445133,"19/03/2025, 23:32:13");</script>
+<script>addRow("etc","etc",1,96,"96 B",1742444636,"19/03/2025, 23:23:56");</script>
+<script>addRow("include","include",1,96,"96 B",1742439141,"19/03/2025, 21:52:21");</script>
+<script>addRow("lib","lib",1,96,"96 B",1742439141,"19/03/2025, 21:52:21");</script>
+<script>addRow("share","share",1,96,"96 B",1742444636,"19/03/2025, 23:23:56");</script>
+<script>addRow(".gitignore",".gitignore",0,69,"69 B",1742439141,"19/03/2025, 21:52:21");</script>
+<script>addRow("pyvenv.cfg","pyvenv.cfg",0,324,"324 B",1742439141,"19/03/2025, 21:52:21");</script>
